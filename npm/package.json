@@ -1,6 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mart Anthony Salazar",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"developer",
+		"backend",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
