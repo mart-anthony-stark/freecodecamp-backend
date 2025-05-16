@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mart Anthony Salazar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
