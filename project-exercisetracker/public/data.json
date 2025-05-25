@@ -1,0 +1,32 @@
+[
+  {
+    "username": "fcc_test_17481568465",
+    "_id": "a6449af963914f9fb4762ac4",
+    "count": 0,
+    "log": []
+  },
+  {
+    "username": "fcc_test_17481568466",
+    "_id": "424550d2fce84b2cbb4f353a",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Sun May 25 2025"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17481568467",
+    "_id": "204fea4b1d4140a7938b9b06",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Sun May 25 2025"
+      }
+    ]
+  }
+]
